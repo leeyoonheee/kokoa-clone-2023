@@ -53,3 +53,7 @@
 .user-component__column:last-child{
     color: rgba(0, 0, 0, 0.5);
 }
+
+.user-component{
+    padding: 0px var(--horizontal-space);
+}
